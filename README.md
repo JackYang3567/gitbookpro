@@ -4,6 +4,10 @@
 CLI version: 2.3.2
 Installing GitBook 3.2.3
 
+
+# gitbook serve
+Serving book on http://localhost:4000
+
 # gitbook online editor URL
 
 https://legacy.gitbook.com/
