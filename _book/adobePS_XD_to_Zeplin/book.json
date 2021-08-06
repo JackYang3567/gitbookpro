@@ -1,0 +1,100 @@
+{
+    "title": "Adobe中PS和XD导出到zeplin的使用",
+    "author": "JackYang",
+    "description": "Adobe中PS和XD导出到zeplin的使用",
+    "language": "en-US",
+    "gitbook": "3.2.3",
+    "styles": {
+        "website": "./styles/website.css",
+        "ebook": "./styles/ebook.css",
+        "pdf": "./styles/pdf.css",
+        "mobi": "./styles/mobi.css",
+        "epub": "./styles/epub.css"
+   },
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "Adobe中PS和XD导出到zeplin的使用": "https://legacy.gitbook.com/book/jackyangg/"
+        }
+    },
+    "plugins": [
+        "-sharing",
+        "splitter",
+        "expandable-chapters-small",
+        "anchors",
+        "github",
+        "github-buttons",
+        "donate",
+        "sharing-plus",
+        "anchor-navigation-ex",
+        "favicon",
+        "code"
+    ],
+    "pluginsConfig": {
+       "code": {
+            "copyButtons": false
+          },
+        "github": {
+            "url": "https://github.com/JackYang3567"
+        },
+        "github-buttons": {
+            "buttons": [{
+                "user": "JackYang",
+                "repo": "glory",
+                "type": "star",
+                "size": "small",
+                "count": true
+                }
+            ]
+        },
+        "donate": {
+              
+                    "wechat": "./src/img/donate_wechat.jpg",
+                    "alipay": "./src/img/donate_alipay.jpg",
+                    "title": "",
+                    "button": "赞赏",
+                    "alipayText": "支付宝打赏",
+                    "wechatText": "微信打赏"
+               
+            
+           },
+        "sharing": {
+            "douban": false,
+           
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": false,
+            "whatsapp": false,
+            "all": [
+                "google", "facebook", "weibo", "twitter",
+                "qq", "qzone", "linkedin", "pocket"
+            ]
+        },
+        "anchor-navigation-ex": {
+            "showLevel": false
+        },
+        "favicon":{
+            "shortcut": "./src/img/favicon.jpg",
+            "bookmark": "./src/img/favicon.jpg",
+            "appleTouch": "./src/img/apple-touch-icon.jpg",
+            "appleTouchMore": {
+                "120x120": "./src/img/apple-touch-icon.jpg",
+                "180x180": "./src/img/apple-touch-icon.jpg"
+            }
+        }
+    } 
+}
